@@ -1,0 +1,13 @@
+instance,configuration,runs,success_rate,wilson_low,wilson_high,median_violation,median_seconds
+"(11,11,5,5,2)",Full QIMA,6,0.0,0.0,0.39,16.0,6.491
+"(11,11,5,5,2)",No rotation,6,0.0,0.0,0.39,16.0,6.569
+"(11,11,5,5,2)",No adaptive weights,6,0.0,0.0,0.39,16.0,6.366
+"(11,11,5,5,2)",No targeted search,6,0.0,0.0,0.39,18.0,6.581
+"(11,11,5,5,2)",No ILS,6,0.0,0.0,0.39,16.0,6.415
+"(11,11,5,5,2)",Matched classical memetic,6,0.0,0.0,0.39,16.0,6.449
+"(13,13,4,4,1)",Full QIMA,6,0.0,0.0,0.39,16.0,5.873
+"(13,13,4,4,1)",No rotation,6,0.0,0.0,0.39,13.0,6.022
+"(13,13,4,4,1)",No adaptive weights,6,0.0,0.0,0.39,16.0,6.061
+"(13,13,4,4,1)",No targeted search,6,0.0,0.0,0.39,20.0,5.953
+"(13,13,4,4,1)",No ILS,6,0.0,0.0,0.39,16.0,5.758
+"(13,13,4,4,1)",Matched classical memetic,6,0.0,0.0,0.39,13.0,5.895
